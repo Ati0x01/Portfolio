@@ -1,6 +1,6 @@
 # Unity Mobile Game Prototypes (APK + Videos)
 
-A small collection of Unity mobile prototypesI built to improve my gameplay programming, architecture, and mobile-friendly performance practices.  
+A small collection of Unity mobile prototypes I built to improve my gameplay programming, architecture, and mobile-friendly performance practices.  
 Each project includes a playable **.apk** (Android) and a short gameplay video.
 
 > **Author:** Atalay Şehoğlu  
