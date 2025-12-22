@@ -48,8 +48,8 @@ I focused on making the core loop robust (swap → match → explode → gravity
 - DOTween-style animation flow
 
 **Gameplay Video**
-  [Watch video](media/Match3.mp4)
-  https://github.com/user-attachments/assets/1329ceb0-7349-44db-8fb6-b5875eeb5c11
+- [Watch video](media/Match3.mp4)
+- ![Image](https://github.com/user-attachments/assets/53e2e5cf-79f0-4fa8-961d-02e72ffb9f59)
 ---
 
 ### 2) Water Pump Game — Particles + Pooling + Asset Integration
@@ -67,7 +67,8 @@ A casual prototype where I experimented with a water/flow feel using a ready-mad
 - Clean integration layer so the asset stays replaceable later
 
 **Gameplay Video**
-[Watch video](media/PumpUpTheJam.mp4)
+- [Watch video](https://github.com/user-attachments/assets/e2626b55-a95b-4d39-997d-3ac7881ce854)
+- ![Image](https://github.com/user-attachments/assets/f29ab9d7-7377-4dcc-b47e-eb26b10eb544)
 
 ---
 
@@ -87,7 +88,8 @@ The main goal was building a solid grid representation and reliable user interac
 - Valid move checks and clean puzzle state handling
 
 **Gameplay Video**
-[Watch video](media/NumberPuzzle.mp4)
+- [Watch video](https://github.com/user-attachments/assets/1329ceb0-7349-44db-8fb6-b5875eeb5c11)
+- ![Image](https://github.com/user-attachments/assets/c6087604-de5a-4e2d-a591-81c4facda64c)
 
 ---
 
