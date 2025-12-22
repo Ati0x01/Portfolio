@@ -23,7 +23,7 @@ Each project includes a playable **.apk** (Android) and a short gameplay video.
 
 ## Downloads (APK)
 
-- **Match-3 (8x8):** [Download APK](./GamesIMade/MatchRoyaleBlastClashofTools8.2.apk)
+- **Match-3 (8x8):** [Download APK](apks/MatchRoyaleBlastClashofTools8.2.apk)
 - **Water Pump Game:** [Download APK](./GamesIMade/PumpUpTheJam1.0.apk)
 - **Number Puzzle:** [Download APK](./GamesIMade/SlidingNumbers1.1.apk)
 
