@@ -48,10 +48,7 @@ I focused on making the core loop robust (swap → match → explode → gravity
 - DOTween-style animation flow
 
 **Gameplay Video**
-- Add a GIF (recommended):  
-  `![Match3 Demo](./media/match3_demo.gif)`
-- Or link a video:  
-  [Watch video](./media/match3_demo.mp4)
+  [Watch video](media/Match3.mp4)
 
 ---
 
@@ -70,8 +67,7 @@ A casual prototype where I experimented with a water/flow feel using a ready-mad
 - Clean integration layer so the asset stays replaceable later
 
 **Gameplay Video**
-- `![Water Pump Demo](./media/waterpump_demo.gif)`
-- Or: [Watch video](./media/waterpump_demo.mp4)
+[Watch video](media/PumpUpTheJam.mp4)
 
 ---
 
@@ -91,8 +87,7 @@ The main goal was building a solid grid representation and reliable user interac
 - Valid move checks and clean puzzle state handling
 
 **Gameplay Video**
-- `![Number Puzzle Demo](./media/numberpuzzle_demo.gif)`
-- Or: [Watch video](./media/numberpuzzle_demo.mp4)
+[Watch video](media/NumberPuzzle.mp4)
 
 ---
 
