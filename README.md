@@ -49,7 +49,7 @@ I focused on making the core loop robust (swap → match → explode → gravity
 
 **Gameplay Video**
   [Watch video](media/Match3.mp4)
-
+  https://github.com/user-attachments/assets/1329ceb0-7349-44db-8fb6-b5875eeb5c11
 ---
 
 ### 2) Water Pump Game — Particles + Pooling + Asset Integration
