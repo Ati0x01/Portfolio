@@ -27,7 +27,7 @@ Each project includes a playable **.apk** (Android) and a short gameplay video.
 - **Match-3 (8x8):** [Download APK](apks/MatchRoyaleBlastClashofTools8.2.apk)
 - **Water Pump Game:** [Download APK](apks/PumpUpTheJam1.0.apk)
 - **Number Puzzle:** [Download APK](apks/SlidingNumbers1.1.apk)
-- **Piece Assembly Puzzle:** [Download APK](apks/PieceAssemblyPuzzle1.0.apk)
+- **Piece Assembly Puzzle:** [Download APK](apks/ShatteredPieces1.4.apk)
 
 ---
 
@@ -98,26 +98,26 @@ The main goal was building a solid grid representation and reliable user interac
 
 ### 4) Piece Assembly Puzzle — Drag & Snap
 
-A piece-assembly (jigsaw-style) puzzle prototype where the player drags scattered pieces and **snaps** them into the correct slots to complete the picture.  
-This project was mainly about building a clean **drag & drop** interaction, reliable snapping rules, and a simple completion pipeline.
+A piece-assembly (jigsaw-style) puzzle prototype where the player drags scattered pieces and snaps them into the correct slots to complete the picture.  
+This project was mainly about building a clean drag & drop interaction, reliable snapping rules, and a simple completion pipeline.
 
 **Key Features**
-- Touch-friendly **drag & drop** piece interaction
-- **Snap-to-slot** placement with configurable tolerance (distance threshold)
+- Touch-friendly drag & drop piece interaction
+- Snap-to-slot placement with configurable tolerance (distance threshold)
 - Piece shuffling / reset flow (so every session starts slightly different)
-- Placement validation via **piece ↔ slot** mapping (ID-based matching)
+- Placement validation via piece  slot mapping (ID-based matching)
 - Lightweight feedback (highlight / front-sorting / optional SFX)
 
 **What I Practiced**
 - Unity UI + EventSystem workflows (pointer/drag handlers) and canvas coordinate conversions
 - Snapping logic (distance checks, nearest slot search, locking a piece when placed)
 - Keeping interaction stable on mobile (sorting order, raycast blocking, preventing double-grabs)
-- Simple puzzle state tracking and **completion detection**
+- Simple puzzle state tracking and completion detection
 - Content pipeline basics (preparing piece sprites, importing textures, and organizing assets)
 
 **Gameplay Video**
-- [Watch video](media/PieceAssemblyPuzzle.mp4)
-- ![Image](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_GIF_OR_IMAGE)
+- [Watch video](media/ShatteredPieces.mp4)
+- ![Image](https://github.com/user-attachments/assets/415e0fd4-dbdd-4b2f-b820-9099febfe6b6))
 
 ---
 
@@ -142,20 +142,19 @@ Across these prototypes, I improved in:
   MatchRoyaleBlastClashofTools8.2.apk
   PumpUpTheJam1.0.apk
   SlidingNumbers1.1.apk
-  PieceAssemblyPuzzle1.0.apk
+  ShatteredPieces1.4.apk
 
 /media
   Match3.mp4
-  WaterPump.mp4 (or user-attachments link)
-  NumberPuzzle.mp4 (or user-attachments link)
-  PieceAssemblyPuzzle.mp4
-  (optional) *.gif previews
+  WaterPump.mp4
+  NumberPuzzle.mp4
+  ShatteredPieces.mp4
+  .gif previews
 ```
 
 ---
 
 ## Notes
 - APKs are provided for portfolio/testing purposes. On Android you may need to allow installing from unknown sources.
-- Videos/GIFs can be stored in `/media` or uploaded via GitHub issues/comments to get a `user-attachments` link.
 
 ---
